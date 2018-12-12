@@ -10,7 +10,7 @@ or disclosed to third parties or used in any manner not provided for in said Lic
 written authorization from 'G Veera Sekhar'.
 
 Important Note:
-As part of improving user experience, we may collect user information including but not limited to name, eamil, lattitude, langitude, ip, mac, contact list, phone number etc which we use for user analysis. This process may include third party analysts as well. We may need to share the info with them for analysis. We promise this will not be leaked or misused from our side apart from above said. If you it is of any concern to you or problem, I suggest you please stop here and DO Not proceed any further. If you have already installed, then you can uninstall. 
+As part of improving user experience, we may collect user information including but not limited to name, email, lattitude, langitude, ip, mac, contact list, phone number etc which we use for user analysis. This process may include third party analysts as well. We may need to share the info with them for analysis. We promise this will not be leaked or misused from our side apart from above said. If you it is of any concern to you or problem, I suggest you please stop here and DO Not proceed any further. If you have already installed, then you can uninstall. 
 
 Installing anyhow means that you fully read and accepted the above terms and conditions and you are absolutely fine with above mentioned statements. 
 
