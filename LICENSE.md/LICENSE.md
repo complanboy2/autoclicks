@@ -19,4 +19,4 @@ Please report any bugs or improvements or feature ideas to complanboy2@gmail.com
 
 **Cancellation / Refund process:**
 
-Once you are subscribed successfully and in any case if you want to cancel the subsription, then you are eligble only if you revert back within 8 working hours of the same day. However, refund is completely under company descretion. Although your subscription is cancelled, you are not entitled to receive a refund. Proceeding further and paying for the services means you have read this notes and agreed to it.
+Once you are subscribed successfully and in any case if you want to cancel the subsription, you can always cancel it from the option provided Or by reaching help and support. However, in any case refund will NOT be provided. You have FREE version, so please try it prior going with subscription. Proceeding further and paying for the services means you have read this notes and agreed to it.
